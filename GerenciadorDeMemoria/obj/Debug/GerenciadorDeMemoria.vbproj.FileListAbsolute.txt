@@ -1,0 +1,77 @@
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+C:\Users\aledo\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\rodrigobrandao\Desktop\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+C:\Users\VyseClown\Dropbox\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+C:\Users\VyseClown\Desktop\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+C:\Users\k-noon\Dropbox\Faculdade-4A-SIS-2016\TrabalhoSOxED\GerenciadorDeMemoria - Copia\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.xml
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbprojResolveAssemblyReference.cache
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.FormPrincipal.resources
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Resources.resources
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.vbproj.GenerateResource.Cache
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.xml
+E:\Box Sync\TrabalhoSOxED\GerenciadorDeMemoria\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
